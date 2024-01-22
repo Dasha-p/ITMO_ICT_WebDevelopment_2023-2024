@@ -1,0 +1,16 @@
+site_name: 'Отчет по первой лабораторной'
+
+theme:
+  name: material
+
+nav:
+  - Lab_1:
+      - 'Home': 'lab_1.md'
+      - 'Task_1': 'task_1.md'
+      - 'Task_2': 'task_2.md'
+      - 'Task_3': 'task_3.md'
+      - 'Task_4': 'task_4.md'
+      - 'Task_5': 'task_5.md'
+  - Lab_2
+  - Lab_3
+  - Lab_4
