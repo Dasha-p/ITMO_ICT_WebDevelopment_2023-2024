@@ -54,4 +54,16 @@ nav:
           - Groups: groups.md
           - Group Members: group_members.md
   - Lab_4:
+      - Home: lab_4.md
+      - Router: router.md
+      - VueX Store: vuex.md
+      - Api Config: api.md
+      - Components:
+          - SiteNavbar: SiteNavbar.md
+          - HomePage: HomePage.md
+          - LoginModal: LoginModal.md
+          - RegisterModal: RegisterModal.md
+          - ClubsTable: ClubsTable.md
+          - RoutesTable: RoutesTable.md
+          - MountDetail: MountDetail.md
 
