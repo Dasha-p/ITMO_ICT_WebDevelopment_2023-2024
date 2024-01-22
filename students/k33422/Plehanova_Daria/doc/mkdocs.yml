@@ -12,7 +12,7 @@ nav:
       - 'Task_4': 'task_4.md'
       - 'Task_5': 'task_5.md'
   - Lab_2:
-      - 'Home': 'index.md'
+      - 'Home': 'lab_2.md'
       - 'Users App':
           - 'Overview':
               - 'Data Models': 'users/models/overview.md'
@@ -38,6 +38,20 @@ nav:
           - 'Controllers Details':
               - 'Flight Views': 'flights/views/flight_views.md'
           - 'Screenshots': 'flights/screenshots/flight_screens.md'
+  - Lab_3:
+      - Home: lab_3.md
+      - Lab_3.1:
+          - Практическое задание №1: prac_1.md
+          - Практическое задание №2: prac_2.md
+          - Практическое задание №3: prac_3.md
+      - Lab_3:
+          - Alpinists: alpinists.md
+          - Guides: guides.md
+          - Mountains: mountains.md
+          - Routes: routes.md
+          - Clubs: clubs.md
+          - Climbs: climbs.md
+          - Groups: groups.md
+          - Group Members: group_members.md
+  - Lab_4:
 
-  - Lab_3
-  - Lab_4
