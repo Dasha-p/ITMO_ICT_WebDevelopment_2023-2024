@@ -4,6 +4,7 @@ theme:
   name: material
 
 nav:
+  - Home: index.md
   - Lab_1:
       - 'Home': 'lab_1.md'
       - 'Task_1': 'task_1.md'
